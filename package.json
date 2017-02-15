@@ -1,0 +1,20 @@
+{
+  "name": "example_bluebird_react_native_promise_issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node node_modules/flow-typed/dist/cli.js install",
+    "start":"flow"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "3.4.7",
+    "react-native": "0.41.2"
+  },
+  "devDependencies": {
+    "flow-bin": "0.39.0",
+    "flow-typed": "2.0.0"
+  }
+}

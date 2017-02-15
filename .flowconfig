@@ -1,0 +1,9 @@
+[ignore]
+.*/node_modules/.*
+
+[libs]
+node_modules/react-native/flow
+flow-typed
+
+[version]
+^0.39.0
